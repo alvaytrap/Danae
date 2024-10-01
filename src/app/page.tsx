@@ -6,10 +6,10 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.center}>
         <Typography variant="h1" component="h1" gutterBottom>
-          Algoritmos de Grafos
+          Algoritmos de IA
         </Typography>
         <Typography variant="h2" component="h2" gutterBottom>
-          Acrisius
+          Danae
         </Typography>
       </div>
     </main>
